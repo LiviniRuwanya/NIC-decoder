@@ -1,16 +1,25 @@
-# nic
+# NIC Decoder
 
-A new Flutter project.
+A simple Flutter app that decodes NIC (national identity-Old & New) numbers and shows the result.
 
-## Getting Started
+## What this project is
 
-This project is a starting point for a Flutter application.
+- A small mobile app made with Flutter.
+- It reads a NIC number and displays decoded information (example: birth year, gender,age).
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Android / iOS (via Flutter)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to run (simple steps)
+
+1. Install Flutter SDK: https://docs.flutter.dev/get-started/install
+2. Open a terminal in this project folder.
+3. Run `flutter pub get` to install packages.
+4. Connect a device or start an emulator.
+5. Run `flutter run` to start the app.
+
+
+Project created with Flutter.
